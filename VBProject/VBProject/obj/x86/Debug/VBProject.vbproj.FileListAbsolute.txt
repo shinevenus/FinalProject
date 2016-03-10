@@ -1,0 +1,11 @@
+C:\Users\SUNSHINE\Documents\Visual Studio 2010\Projects\VBProject\VBProject\bin\Debug\VBProject.exe
+C:\Users\SUNSHINE\Documents\Visual Studio 2010\Projects\VBProject\VBProject\bin\Debug\VBProject.pdb
+C:\Users\SUNSHINE\Documents\Visual Studio 2010\Projects\VBProject\VBProject\bin\Debug\VBProject.xml
+C:\Users\SUNSHINE\Documents\Visual Studio 2010\Projects\VBProject\VBProject\obj\x86\Debug\VBProject.Form1.resources
+C:\Users\SUNSHINE\Documents\Visual Studio 2010\Projects\VBProject\VBProject\obj\x86\Debug\VBProject.Resources.resources
+C:\Users\SUNSHINE\Documents\Visual Studio 2010\Projects\VBProject\VBProject\obj\x86\Debug\VBProject.vbproj.GenerateResource.Cache
+C:\Users\SUNSHINE\Documents\Visual Studio 2010\Projects\VBProject\VBProject\obj\x86\Debug\VBProject.exe
+C:\Users\SUNSHINE\Documents\Visual Studio 2010\Projects\VBProject\VBProject\obj\x86\Debug\VBProject.xml
+C:\Users\SUNSHINE\Documents\Visual Studio 2010\Projects\VBProject\VBProject\obj\x86\Debug\VBProject.pdb
+C:\Users\SUNSHINE\Documents\Visual Studio 2010\Projects\VBProject\VBProject\obj\x86\Debug\VBProject.Form2.resources
+C:\Users\SUNSHINE\Documents\Visual Studio 2010\Projects\VBProject\VBProject\obj\x86\Debug\VBProject.Form3.resources
